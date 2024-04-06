@@ -10,6 +10,7 @@ public class Test1 {
 		System.out.println("branch A line 10");
 		System.out.println("Conflict scenario 1 branch A");
 		System.out.println("Conflict scenario 1 branch A");
+
 	}
 
 }
